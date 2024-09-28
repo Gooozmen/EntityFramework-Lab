@@ -1,0 +1,16 @@
+# Git Commit Message Convention
+
+This project follows the **Conventional Commits** specification to standardize commit messages. All developers are required to follow this structure to ensure consistent commit history, making it easier to collaborate and maintain the codebase.
+
+# Commit Message Format
+
+<type>(<scope>): <subject>
+
+# Commit Message Example
+
+feat(login): add login authentication with JWT
+fix(api): correct bug in query handling
+docs: update README with installation instructions
+style: format code according to ESLint rules
+refactor(database): optimize query for faster execution
+
